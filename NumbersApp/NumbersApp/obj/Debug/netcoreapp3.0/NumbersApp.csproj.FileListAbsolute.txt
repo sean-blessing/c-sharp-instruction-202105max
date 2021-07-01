@@ -1,0 +1,11 @@
+C:\repos-202105-max\c-sharp-instruction-202105-max\NumbersApp\NumbersApp\bin\Debug\netcoreapp3.0\NumbersApp.exe
+C:\repos-202105-max\c-sharp-instruction-202105-max\NumbersApp\NumbersApp\bin\Debug\netcoreapp3.0\NumbersApp.deps.json
+C:\repos-202105-max\c-sharp-instruction-202105-max\NumbersApp\NumbersApp\bin\Debug\netcoreapp3.0\NumbersApp.runtimeconfig.json
+C:\repos-202105-max\c-sharp-instruction-202105-max\NumbersApp\NumbersApp\bin\Debug\netcoreapp3.0\NumbersApp.runtimeconfig.dev.json
+C:\repos-202105-max\c-sharp-instruction-202105-max\NumbersApp\NumbersApp\bin\Debug\netcoreapp3.0\NumbersApp.dll
+C:\repos-202105-max\c-sharp-instruction-202105-max\NumbersApp\NumbersApp\bin\Debug\netcoreapp3.0\NumbersApp.pdb
+C:\repos-202105-max\c-sharp-instruction-202105-max\NumbersApp\NumbersApp\obj\Debug\netcoreapp3.0\NumbersApp.csprojAssemblyReference.cache
+C:\repos-202105-max\c-sharp-instruction-202105-max\NumbersApp\NumbersApp\obj\Debug\netcoreapp3.0\NumbersApp.AssemblyInfoInputs.cache
+C:\repos-202105-max\c-sharp-instruction-202105-max\NumbersApp\NumbersApp\obj\Debug\netcoreapp3.0\NumbersApp.AssemblyInfo.cs
+C:\repos-202105-max\c-sharp-instruction-202105-max\NumbersApp\NumbersApp\obj\Debug\netcoreapp3.0\NumbersApp.dll
+C:\repos-202105-max\c-sharp-instruction-202105-max\NumbersApp\NumbersApp\obj\Debug\netcoreapp3.0\NumbersApp.pdb

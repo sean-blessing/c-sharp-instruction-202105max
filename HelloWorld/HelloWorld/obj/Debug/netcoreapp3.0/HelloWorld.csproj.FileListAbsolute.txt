@@ -1,0 +1,11 @@
+C:\repos-202105-max\c-sharp-instruction-202105-max\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.exe
+C:\repos-202105-max\c-sharp-instruction-202105-max\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.deps.json
+C:\repos-202105-max\c-sharp-instruction-202105-max\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.runtimeconfig.json
+C:\repos-202105-max\c-sharp-instruction-202105-max\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.runtimeconfig.dev.json
+C:\repos-202105-max\c-sharp-instruction-202105-max\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.dll
+C:\repos-202105-max\c-sharp-instruction-202105-max\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.0\HelloWorld.pdb
+C:\repos-202105-max\c-sharp-instruction-202105-max\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.csprojAssemblyReference.cache
+C:\repos-202105-max\c-sharp-instruction-202105-max\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.AssemblyInfoInputs.cache
+C:\repos-202105-max\c-sharp-instruction-202105-max\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.AssemblyInfo.cs
+C:\repos-202105-max\c-sharp-instruction-202105-max\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.dll
+C:\repos-202105-max\c-sharp-instruction-202105-max\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.0\HelloWorld.pdb

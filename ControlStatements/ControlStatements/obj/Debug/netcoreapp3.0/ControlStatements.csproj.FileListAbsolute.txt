@@ -1,0 +1,10 @@
+C:\repos-202105-max\c-sharp-instruction-202105-max\ControlStatements\ControlStatements\bin\Debug\netcoreapp3.0\ControlStatements.exe
+C:\repos-202105-max\c-sharp-instruction-202105-max\ControlStatements\ControlStatements\bin\Debug\netcoreapp3.0\ControlStatements.deps.json
+C:\repos-202105-max\c-sharp-instruction-202105-max\ControlStatements\ControlStatements\bin\Debug\netcoreapp3.0\ControlStatements.runtimeconfig.json
+C:\repos-202105-max\c-sharp-instruction-202105-max\ControlStatements\ControlStatements\bin\Debug\netcoreapp3.0\ControlStatements.runtimeconfig.dev.json
+C:\repos-202105-max\c-sharp-instruction-202105-max\ControlStatements\ControlStatements\bin\Debug\netcoreapp3.0\ControlStatements.dll
+C:\repos-202105-max\c-sharp-instruction-202105-max\ControlStatements\ControlStatements\bin\Debug\netcoreapp3.0\ControlStatements.pdb
+C:\repos-202105-max\c-sharp-instruction-202105-max\ControlStatements\ControlStatements\obj\Debug\netcoreapp3.0\ControlStatements.AssemblyInfoInputs.cache
+C:\repos-202105-max\c-sharp-instruction-202105-max\ControlStatements\ControlStatements\obj\Debug\netcoreapp3.0\ControlStatements.AssemblyInfo.cs
+C:\repos-202105-max\c-sharp-instruction-202105-max\ControlStatements\ControlStatements\obj\Debug\netcoreapp3.0\ControlStatements.dll
+C:\repos-202105-max\c-sharp-instruction-202105-max\ControlStatements\ControlStatements\obj\Debug\netcoreapp3.0\ControlStatements.pdb
